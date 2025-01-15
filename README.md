@@ -46,6 +46,3 @@ I'm a passionate developer, always learning and experimenting with new technolog
 
 ### ⭐️ Repositories:
 - My **[GitHub Repo](https://github.com/EDITH96929)** has 19 total stars! 🌟
-
-## 🎯 GIF of My Journey
-
