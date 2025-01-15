@@ -1,7 +1,5 @@
 # Hi there, I'm Sunil 👋
-
-![Avatar](https://your-avatar-image-url)  
-
+  
 ## 🚀 About Me
 
 I'm a passionate developer, always learning and experimenting with new technologies. Currently diving into **AI/ML**, and working on **web development** projects.
