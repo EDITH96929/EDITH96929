@@ -1,6 +1,6 @@
 # Hi there, I'm Sunil 👋
 
-![Avatar](https://your-avatar-image-url)  <!-- Replace with your avatar image URL -->
+![Avatar](https://your-avatar-image-url)  
 
 ## 🚀 About Me
 
