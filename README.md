@@ -2,7 +2,7 @@
   
 ## 🚀 About Me
 
-I'm a passionate developer, always learning and experimenting with new technologies. Currently diving into **AI/ML**, and working on **web development** projects.
+I'm a passionate developer, always learning and experimenting with new technologies. Currently pursing my mca at centurion University 🎓 
 
 ## 🛠️ Languages & Tools
 
