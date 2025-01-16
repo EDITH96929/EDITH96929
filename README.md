@@ -30,8 +30,6 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 
 
