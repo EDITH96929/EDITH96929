@@ -40,7 +40,6 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 
-
 ## 📈 GitHub Stats & Repository
 
 ![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EDITH96929&show_icons=true&theme=radical)
