@@ -12,7 +12,7 @@
 
 ### 💻 Programming Languages:  
 <span><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin-right: 10px;"></span>
-<span><img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" style="margin-right: 10px;"></span>
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-right: 10px;"></span>
@@ -20,14 +20,13 @@
 <span><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin-right: 10px;"></span>
 
 ### 🧱 Frameworks and Libraries:  
-<span><img src="https://img.icons8.com/color/48/000000/react.png" alt="React" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 10px;"></span>
-<span><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-right: 10px;"></span>
-
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="40" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="Express" width="40" height="40" style="margin-right: 10px;"></span>
 ### 🛢️ Databases and Tools:  
-<span><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" style="margin-right: 10px;"></span>
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin-right: 10px;"></span>
@@ -42,9 +41,8 @@
 <span><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 10px;"></span>
 <span><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 10px;"></span>
-<span><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin-right: 10px;"></span>
-<span><img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" style="margin-right: 10px;"></span>
-
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vercel.svg" alt="Vercel" width="40" height="40" style="margin-right: 10px;"></span>
 ## 📈 GitHub Stats & Repositories  
 
 ![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil8521&show_icons=true&theme=radical)  
