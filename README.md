@@ -11,12 +11,12 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming Languages:  
-<span><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="40" height="40" style="margin-right: 10px;"></span>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="40" height="40" style="margin-right: 10px;"></span>
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"></span>
-<span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"></span>
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="40" height="40" style="margin-right: 10px;"></span>
-<span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="40" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="60" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="60" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="60" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="60" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="60" height="40" style="margin-right: 10px;"></span>
+<span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="60" height="40" style="margin-right: 10px;"></span>
 
 ### 🧱 Frameworks and Libraries:  
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="40" height="40" style="margin-right: 10px;"></span>
