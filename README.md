@@ -11,39 +11,39 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming Languages:  
-![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)  
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/c.svg" alt="C" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/java.svg" alt="Java" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/python.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/typescript.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/html5.svg" alt="HTML" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/css3.svg" alt="CSS" width="40" height="40" style="margin-right: 10px;">  
 
 ### 🧱 Frameworks and Libraries:  
-![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  
-![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/react.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/redux.svg" alt="Redux" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/nodedotjs.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/express.svg" alt="Express.js" width="40" height="40" style="margin-right: 10px;">  
 
 ### 🛢️ Databases and Tools:  
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
-![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/mongodb.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/redis.svg" alt="Redis" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/firebase.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/prisma.svg" alt="Prisma" width="40" height="40" style="margin-right: 10px;">  
 
 ### 🖥️ Operating Systems:  
-![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/linux.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/windows.svg" alt="Windows" width="40" height="40" style="margin-right: 10px;">  
 
 ### ⚙️ Tools and IDEs:  
-![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/git.svg" alt="Git" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/github.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/docker.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/figma.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/vercel.svg" alt="Vercel" width="40" height="40" style="margin-right: 10px;">  
 
 ## 📈 GitHub Stats & Repositories  
 
