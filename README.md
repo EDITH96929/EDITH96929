@@ -11,43 +11,44 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming Languages:  
-<img src="https://img.icons8.com/fluency/48/000000/c-programming.png" alt="C" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/typescript.png" alt="TypeScript" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/html-5.png" alt="HTML" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS" width="40" height="40" style="margin-right: 10px;">  
+- [C](https://img.icons8.com/color/48/000000/c-programming.png)  
+- [Java](https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png)  
+- [Python](https://img.icons8.com/fluency/48/000000/python.png)  
+- [JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)  
+- [TypeScript](https://img.icons8.com/fluency/48/000000/typescript.png)  
+- [HTML](https://img.icons8.com/fluency/48/000000/html-5.png)  
+- [CSS](https://img.icons8.com/fluency/48/000000/css3.png)  
 
 ### 🧱 Frameworks and Libraries:  
-<img src="https://img.icons8.com/fluency/48/000000/react.png" alt="React" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/redux.png" alt="Redux" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/nodejs.png" alt="Node.js" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/express.png" alt="Express.js" width="40" height="40" style="margin-right: 10px;">  
+- [React](https://img.icons8.com/fluency/48/000000/react.png)  
+- [Redux](https://img.icons8.com/fluency/48/000000/redux.png)  
+- [Tailwind CSS](https://img.icons8.com/fluency/48/000000/tailwindcss.png)  
+- [Node.js](https://img.icons8.com/fluency/48/000000/nodejs.png)  
+- [Express.js](https://img.icons8.com/fluency/48/000000/express.png)  
 
 ### 🛢️ Databases and Tools:  
-<img src="https://img.icons8.com/fluency/48/000000/postgresql.png" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/mongodb.png" alt="MongoDB" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/redis.png" alt="Redis" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/firebase.png" alt="Firebase" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/prisma.png" alt="Prisma" width="40" height="40" style="margin-right: 10px;">  
+- [PostgreSQL](https://img.icons8.com/fluency/48/000000/postgresql.png)  
+- [MongoDB](https://img.icons8.com/fluency/48/000000/mongodb.png)  
+- [Redis](https://img.icons8.com/fluency/48/000000/redis.png)  
+- [Firebase](https://img.icons8.com/fluency/48/000000/firebase.png)  
+- [Prisma](https://img.icons8.com/fluency/48/000000/prisma.png)  
 
 ### 🖥️ Operating Systems:  
-<img src="https://img.icons8.com/fluency/48/000000/linux.png" alt="Linux" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="Windows" width="40" height="40" style="margin-right: 10px;">  
+- [Linux](https://img.icons8.com/fluency/48/000000/linux.png)  
+- [Windows](https://img.icons8.com/fluency/48/000000/windows-10.png)  
 
 ### ⚙️ Tools and IDEs:  
-<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma" width="40" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/fluency/48/000000/vercel.png" alt="Vercel" width="40" height="40" style="margin-right: 10px;">  
+- [VS Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)  
+- [Git](https://img.icons8.com/fluency/48/000000/git.png)  
+- [GitHub](https://img.icons8.com/fluency/48/000000/github.png)  
+- [Docker](https://img.icons8.com/fluency/48/000000/docker.png)  
+- [Figma](https://img.icons8.com/fluency/48/000000/figma.png)  
+- [Vercel](https://img.icons8.com/fluency/48/000000/vercel.png)  
 
 ## 📈 GitHub Stats & Repositories  
 
 ![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil8521&show_icons=true&theme=radical)  
 
-### ⭐️ Repositories:  
-- Explore my work and contributions on **[GitHub](https://github.com/sunil8521)**
+### ⭐️ Repositories: 
+- Explore my work and contributions on **[GitHub](https://github.com/sunil8521)**!  
+
