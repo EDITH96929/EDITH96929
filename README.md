@@ -11,44 +11,23 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming Languages:  
-- [C](https://img.icons8.com/color/48/000000/c-programming.png)  
-- [Java](https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png)  
-- [Python](https://img.icons8.com/fluency/48/000000/python.png)  
-- [JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)  
-- [TypeScript](https://img.icons8.com/fluency/48/000000/typescript.png)  
-- [HTML](https://img.icons8.com/fluency/48/000000/html-5.png)  
-- [CSS](https://img.icons8.com/fluency/48/000000/css3.png)  
+[![C](https://img.icons8.com/ios/50/000000/c-programming.png)](https://icons8.com/icons/set/c-programming) 
+[![Java](https://img.icons8.com/ios/50/000000/java.png)](https://icons8.com/icons/set/java)
+[![Python](https://img.icons8.com/ios/50/000000/python.png)](https://icons8.com/icons/set/python)
+[![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)](https://icons8.com/icons/set/javascript)
+[![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png)](https://icons8.com/icons/set/typescript)
+[![HTML](https://img.icons8.com/ios/50/000000/html-5.png)](https://icons8.com/icons/set/html-5)
+[![CSS](https://img.icons8.com/ios/50/000000/css3.png)](https://icons8.com/icons/set/css3)
 
 ### 🧱 Frameworks and Libraries:  
-- [React](https://img.icons8.com/fluency/48/000000/react.png)  
-- [Redux](https://img.icons8.com/fluency/48/000000/redux.png)  
-- [Tailwind CSS](https://img.icons8.com/fluency/48/000000/tailwindcss.png)  
-- [Node.js](https://img.icons8.com/fluency/48/000000/nodejs.png)  
-- [Express.js](https://img.icons8.com/fluency/48/000000/express.png)  
+[![React](https://img.icons8.com/ios/50/000000/react.png)](https://icons8.com/icons/set/react)
+[![Redux](https://img.icons8.com/ios/50/000000/redux.png)](https://icons8.com/icons/set/redux)
+[![TailwindCSS](https://img.icons8.com/ios/50/000000/tailwindcss.png)](https://icons8.com/icons/set/tailwindcss)
+[![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png)](https://icons8.com/icons/set/nodejs)
+[![Express](https://img.icons8.com/ios/50/000000/express.png)](https://icons8.com/icons/set/express)
 
 ### 🛢️ Databases and Tools:  
-- [PostgreSQL](https://img.icons8.com/fluency/48/000000/postgresql.png)  
-- [MongoDB](https://img.icons8.com/fluency/48/000000/mongodb.png)  
-- [Redis](https://img.icons8.com/fluency/48/000000/redis.png)  
-- [Firebase](https://img.icons8.com/fluency/48/000000/firebase.png)  
-- [Prisma](https://img.icons8.com/fluency/48/000000/prisma.png)  
-
-### 🖥️ Operating Systems:  
-- [Linux](https://img.icons8.com/fluency/48/000000/linux.png)  
-- [Windows](https://img.icons8.com/fluency/48/000000/windows-10.png)  
-
-### ⚙️ Tools and IDEs:  
-- [VS Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)  
-- [Git](https://img.icons8.com/fluency/48/000000/git.png)  
-- [GitHub](https://img.icons8.com/fluency/48/000000/github.png)  
-- [Docker](https://img.icons8.com/fluency/48/000000/docker.png)  
-- [Figma](https://img.icons8.com/fluency/48/000000/figma.png)  
-- [Vercel](https://img.icons8.com/fluency/48/000000/vercel.png)  
-
-## 📈 GitHub Stats & Repositories  
-
-![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil8521&show_icons=true&theme=radical)  
-
-### ⭐️ Repositories: 
-- Explore my work and contributions on **[GitHub](https://github.com/sunil8521)**!  
-
+[![PostgreSQL](https://img.icons8.com/ios/50/000000/postgresql.png)](https://icons8.com/icons/set/postgresql)
+[![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png)](https://icons8.com/icons/set/mongodb)
+[![Redis](https://img.icons8.com/ios/50/000000/redis.png)](https://icons8.com/icons/set/redis)
+[![Firebase](https
