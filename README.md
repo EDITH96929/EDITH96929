@@ -11,39 +11,39 @@
 ## 🛠️ Languages & Tools  
 
 ### 💻 Programming Languages:  
-[![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://icons8.com/icons/set/c-programming)  
-[![Java](https://img.icons8.com/color/48/000000/java.png)](https://icons8.com/icons/set/java)  
-[![Python](https://img.icons8.com/color/48/000000/python.png)](https://icons8.com/icons/set/python)  
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://icons8.com/icons/set/javascript)  
-[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://icons8.com/icons/set/typescript)  
-[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://icons8.com/icons/set/html-5)  
-[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://icons8.com/icons/set/css3)  
+<span><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin-right: 10px;"></span>
 
 ### 🧱 Frameworks and Libraries:  
-[![React](https://img.icons8.com/color/48/000000/react.png)](https://icons8.com/icons/set/react)  
-[![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://icons8.com/icons/set/redux)  
-[![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)](https://icons8.com/icons/set/tailwindcss)  
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://icons8.com/icons/set/nodejs)  
-[![Express](https://img.icons8.com/color/48/000000/express.png)](https://icons8.com/icons/set/express)  
+<span><img src="https://img.icons8.com/color/48/000000/react.png" alt="React" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin-right: 10px;"></span>
 
 ### 🛢️ Databases and Tools:  
-[![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)](https://icons8.com/icons/set/postgresql)  
-[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://icons8.com/icons/set/mongodb)  
-[![Redis](https://img.icons8.com/color/48/000000/redis.png)](https://icons8.com/icons/set/redis)  
-[![Firebase](https://img.icons8.com/color/48/000000/firebase.png)](https://icons8.com/icons/set/firebase)  
-[![Prisma](https://img.icons8.com/color/48/000000/prisma.png)](https://icons8.com/icons/set/prisma)  
+<span><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma" style="margin-right: 10px;"></span>
 
 ### 🖥️ Operating Systems:  
-[![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://icons8.com/icons/set/linux)  
-[![Windows](https://img.icons8.com/color/48/000000/windows-10.png)](https://icons8.com/icons/set/windows-10)  
+<span><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" style="margin-right: 10px;"></span>
 
 ### ⚙️ Tools and IDEs:  
-[![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](https://icons8.com/icons/set/visual-studio-code-2019)  
-[![Git](https://img.icons8.com/color/48/000000/git.png)](https://icons8.com/icons/set/git)  
-[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://icons8.com/icons/set/github)  
-[![Docker](https://img.icons8.com/color/48/000000/docker.png)](https://icons8.com/icons/set/docker)  
-[![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://icons8.com/icons/set/figma)  
-[![Vercel](https://img.icons8.com/color/48/000000/vercel.png)](https://icons8.com/icons/set/vercel)
+<span><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin-right: 10px;"></span>
+<span><img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" style="margin-right: 10px;"></span>
 
 ## 📈 GitHub Stats & Repositories  
 
