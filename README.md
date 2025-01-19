@@ -1,7 +1,7 @@
 # Hi there, I'm Sunil 👋  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3o7TKsQLEwx83nbXJq/giphy.gif" alt="Coding Animation" width="600" height="300"/>
 </p>
 
 ## 🚀 About Me
