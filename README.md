@@ -1,8 +1,9 @@
 # Hi there, I'm Sunil 👋  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Coding Animation" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Chill Guy" width="600" height="300"/>
 </p>
+
 
 ## 🚀 About Me
 
