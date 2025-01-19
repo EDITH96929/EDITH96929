@@ -1,8 +1,12 @@
-# Hi there, I'm Sunil 👋
+# Hi there, I'm Sunil 👋  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="600" height="300"/>
+</p>
 
 ## 🚀 About Me
 
-I'm a passionate developer, always learning and experimenting with new technologies. Currently pursuing my MCA at Centurion University 🎓 
+I'm a passionate developer, always learning and experimenting with new technologies. Currently pursuing my MCA at Centurion University 🎓  
 
 ---
 
@@ -55,8 +59,3 @@ I'm a passionate developer, always learning and experimenting with new technolog
 
 ### ⭐️ Repositories:
 - My **[GitHub Repo](https://github.com/EDITH96929)** has 19 total stars! 🌟
-
----
-
-## 🌟 Fun Animation
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
