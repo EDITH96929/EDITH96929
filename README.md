@@ -1,7 +1,7 @@
 # Hi there, I'm Sunil 👋  
 
 <p align="center">
-  <img src=" https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Chill Guy" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Chill Guy" width="600" height="300"/>
 </p>
 
 
