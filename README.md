@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Chill Guy" width="600" height="300"/>
 </p>
 
-
 ## 🚀 About Me
 
 I'm a passionate developer, always learning and experimenting with new technologies. Currently pursuing my MCA at Centurion University 🎓  
@@ -14,41 +13,41 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages:
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML Badge](https://badgen.net/badge/Code/HTML/E34F26?icon=html5&labelColor=black)
+![CSS Badge](https://badgen.net/badge/Style/CSS/1572B6?icon=css3&labelColor=black)
+![Tailwind Badge](https://badgen.net/badge/CSS/Tailwind%20CSS/06B6D4?icon=tailwindcss&labelColor=black)
+![Java Badge](https://badgen.net/badge/Programming/Java/007396?icon=java&labelColor=black)
+![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/F7DF1E?icon=javascript&labelColor=black)
+![React Badge](https://badgen.net/badge/Framework/React/61DAFB?icon=react&labelColor=black)
+![C Badge](https://badgen.net/badge/Language/C/A8B9CC?icon=c&labelColor=black)
+![Python Badge](https://badgen.net/badge/Code/Python/3776AB?icon=python&labelColor=black)
 
 ---
 
 ### 🖥️ Operating Systems:
-![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Badge](https://badgen.net/badge/OS/Windows/0078D6?icon=windows&labelColor=black)
+![Linux Badge](https://badgen.net/badge/OS/Linux/FCC624?icon=linux&labelColor=black)
 
 ---
 
 ### 🧱 Frameworks:
-![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap Badge](https://badgen.net/badge/Framework/Bootstrap/7952B3?icon=bootstrap&labelColor=black)
+![Tailwind CSS Badge](https://badgen.net/badge/Framework/Tailwind%20CSS/06B6D4?icon=tailwindcss&labelColor=black)
+![React Badge](https://badgen.net/badge/Framework/React/61DAFB?icon=react&labelColor=black)
+![Next.js Badge](https://badgen.net/badge/Framework/Next.js/000000?icon=nextdotjs&labelColor=black)
+![Node.js Badge](https://badgen.net/badge/Runtime/Node.js/339933?icon=nodejs&labelColor=black)
+![Express.js Badge](https://badgen.net/badge/Framework/Express.js/000000?labelColor=black)
 
 ---
 
 ### 🧑‍💻 IDE & Tools:
-![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code Badge](https://badgen.net/badge/IDE/VS%20Code/007ACC?icon=visualstudiocode&labelColor=black)
+![GitHub Badge](https://badgen.net/badge/Platform/GitHub/181717?icon=github&labelColor=black)
+![Git Badge](https://badgen.net/badge/Version%20Control/Git/F05032?icon=git&labelColor=black)
+![Figma Badge](https://badgen.net/badge/Design/Figma/F24E1E?icon=figma&labelColor=black)
+![Docker Badge](https://badgen.net/badge/Container/Docker/2496ED?icon=docker&labelColor=black)
+![Firebase Badge](https://badgen.net/badge/Backend/Firebase/FFCA28?icon=firebase&labelColor=black)
+![Vercel Badge](https://badgen.net/badge/Hosting/Vercel/000000?icon=vercel&labelColor=black)
 
 ---
 
