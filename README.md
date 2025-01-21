@@ -48,6 +48,7 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ![Docker Badge](https://badgen.net/badge/Docker/Container/2496ED?icon=docker&style=flat)
 ![Firebase Badge](https://badgen.net/badge/Firebase/Backend/FFCA28?icon=firebase&style=flat)
 ![Vercel Badge](https://badgen.net/badge/Vercel/Hosting/000000?icon=vercel&style=flat)
+![Beekeeper Studio Badge](https://badgen.net/badge/Beekeeper%20Studio/Database/5D50ED?icon=database&style=flat)
 
 ---
 
