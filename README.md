@@ -13,42 +13,41 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages:
-![HTML Badge](https://badgen.net/badge/HTML/Code/E34F26?icon=html5&style=flat)
-![CSS Badge](https://badgen.net/badge/CSS/Style/1572B6?icon=css3&style=flat)
-![Tailwind Badge](https://badgen.net/badge/Tailwind%20CSS/CSS/06B6D4?icon=tailwindcss&style=flat)
-![Java Badge](https://badgen.net/badge/Java/Programming/007396?icon=java&style=flat)
-![JavaScript Badge](https://badgen.net/badge/JavaScript/Code/F7DF1E?icon=javascript&style=flat)
-![React Badge](https://badgen.net/badge/React/Framework/61DAFB?icon=react&style=flat)
-![C Badge](https://badgen.net/badge/C/Language/A8B9CC?icon=c&style=flat)
-![Python Badge](https://badgen.net/badge/Python/Code/3776AB?icon=python&style=flat)
+![HTML Badge](https://badgen.net/badge/Code/HTML/E34F26?icon=html5&labelColor=black)
+![CSS Badge](https://badgen.net/badge/Style/CSS/1572B6?icon=css3&labelColor=black)
+![Tailwind Badge](https://badgen.net/badge/CSS/Tailwind%20CSS/06B6D4?icon=tailwindcss&labelColor=black)
+![Java Badge](https://badgen.net/badge/Programming/Java/007396?icon=java&labelColor=black)
+![JavaScript Badge](https://badgen.net/badge/Code/JavaScript/F7DF1E?icon=javascript&labelColor=black)
+![React Badge](https://badgen.net/badge/Framework/React/61DAFB?icon=react&labelColor=black)
+![C Badge](https://badgen.net/badge/Language/C/A8B9CC?icon=c&labelColor=black)
+![Python Badge](https://badgen.net/badge/Code/Python/3776AB?icon=python&labelColor=black)
 
 ---
 
 ### 🖥️ Operating Systems:
-![Windows Badge](https://badgen.net/badge/Windows/OS/0078D6?icon=windows&style=flat)
-![Linux Badge](https://badgen.net/badge/Linux/OS/FCC624?icon=linux&style=flat)
+![Windows Badge](https://badgen.net/badge/OS/Windows/0078D6?icon=windows&labelColor=black)
+![Linux Badge](https://badgen.net/badge/OS/Linux/FCC624?icon=linux&labelColor=black)
 
 ---
 
 ### 🧱 Frameworks:
-![Bootstrap Badge](https://badgen.net/badge/Bootstrap/Framework/7952B3?icon=bootstrap&style=flat)
-![Tailwind CSS Badge](https://badgen.net/badge/Tailwind%20CSS/Framework/06B6D4?icon=tailwindcss&style=flat)
-![React Badge](https://badgen.net/badge/React/Framework/61DAFB?icon=react&style=flat)
-![Next.js Badge](https://badgen.net/badge/Next.js/Framework/000000?icon=nextdotjs&style=flat)
-![Node.js Badge](https://badgen.net/badge/Node.js/Runtime/339933?icon=nodejs&style=flat)
-![Express.js Badge](https://badgen.net/badge/Express.js/Framework/000000?style=flat)
+![Bootstrap Badge](https://badgen.net/badge/Framework/Bootstrap/7952B3?icon=bootstrap&labelColor=black)
+![Tailwind CSS Badge](https://badgen.net/badge/Framework/Tailwind%20CSS/06B6D4?icon=tailwindcss&labelColor=black)
+![React Badge](https://badgen.net/badge/Framework/React/61DAFB?icon=react&labelColor=black)
+![Next.js Badge](https://badgen.net/badge/Framework/Next.js/000000?icon=nextdotjs&labelColor=black)
+![Node.js Badge](https://badgen.net/badge/Runtime/Node.js/339933?icon=nodejs&labelColor=black)
+![Express.js Badge](https://badgen.net/badge/Framework/Express.js/000000?labelColor=black)
 
 ---
 
 ### 🧑‍💻 IDE & Tools:
-![VS Code Badge](https://badgen.net/badge/VS%20Code/IDE/007ACC?icon=visualstudiocode&style=flat)
-![GitHub Badge](https://badgen.net/badge/GitHub/Platform/181717?icon=github&style=flat)
-![Git Badge](https://badgen.net/badge/Git/Version%20Control/F05032?icon=git&style=flat)
-![Figma Badge](https://badgen.net/badge/Figma/Design/F24E1E?icon=figma&style=flat)
-![Docker Badge](https://badgen.net/badge/Docker/Container/2496ED?icon=docker&style=flat)
-![Firebase Badge](https://badgen.net/badge/Firebase/Backend/FFCA28?icon=firebase&style=flat)
-![Vercel Badge](https://badgen.net/badge/Vercel/Hosting/000000?icon=vercel&style=flat)
-![Beekeeper Studio Badge](https://badgen.net/badge/Beekeeper%20Studio/Database/5D50ED?icon=database&style=flat)
+![VS Code Badge](https://badgen.net/badge/IDE/VS%20Code/007ACC?icon=visualstudiocode&labelColor=black)
+![GitHub Badge](https://badgen.net/badge/Platform/GitHub/181717?icon=github&labelColor=black)
+![Git Badge](https://badgen.net/badge/Version%20Control/Git/F05032?icon=git&labelColor=black)
+![Figma Badge](https://badgen.net/badge/Design/Figma/F24E1E?icon=figma&labelColor=black)
+![Docker Badge](https://badgen.net/badge/Container/Docker/2496ED?icon=docker&labelColor=black)
+![Firebase Badge](https://badgen.net/badge/Backend/Firebase/FFCA28?icon=firebase&labelColor=black)
+![Vercel Badge](https://badgen.net/badge/Hosting/Vercel/000000?icon=vercel&labelColor=black)
 
 ---
 
