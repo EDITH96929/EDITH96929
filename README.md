@@ -1,7 +1,7 @@
 # Hi there, I'm Sunil 👋  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Chill Guy" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="600" height="300"/>
 </p>
 
 ## 🚀 About Me
@@ -13,24 +13,41 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages:
-![HTML Badge](https://badgen.net/badge/HTML/Code/E34F26?icon=html5&style=flat)
-![CSS Badge](https://badgen.net/badge/CSS/Style/1572B6?icon=css3&style=flat)
-![JavaScript Badge](https://badgen.net/badge/JavaScript/Code/F7DF1E?icon=javascript&style=flat)
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🧑‍💻 GitHub Actions Workflows
+### 🖥️ Operating Systems:
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🚀 Workflow Status:
+---
 
-- **Build Workflow**:  
-  ![Build Status](https://github.com/EDITH96929/your-repo-name/actions/workflows/build.yml/badge.svg)
+### 🧱 Frameworks:
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-- **Test Workflow**:  
-  ![Test Status](https://github.com/EDITH96929/your-repo-name/actions/workflows/test.yml/badge.svg)
+---
 
-- **Deploy Workflow**:  
-  ![Deploy Status](https://github.com/EDITH96929/your-repo-name/actions/workflows/deploy.yml/badge.svg)
+### 🧑‍💻 IDE & Tools:
+![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
