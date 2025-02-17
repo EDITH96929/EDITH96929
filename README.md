@@ -61,6 +61,6 @@ I'm a passionate developer, always learning and experimenting with new technolog
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://github.com/EDITH96929/EDITH96929/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/EDITH96929/EDITH96929/raw/output/github-contribution-grid-snake.svg)
 
 
