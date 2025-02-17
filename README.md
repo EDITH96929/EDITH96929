@@ -59,7 +59,8 @@ I'm a passionate developer, always learning and experimenting with new technolog
 ### ⭐️ Repositories:
 - My **[GitHub Repo](https://github.com/EDITH96929)** has 19 total stars! 🌟
 
-![GitHub Snake](https://EDITH96929.github.io/EDITH96929/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/EDITH96929/EDITH96929/output/github-snake.svg)
+
 
 
 
