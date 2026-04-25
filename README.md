@@ -17,7 +17,6 @@
 
 ## 🧠 About Me
 
-- 🎓 Completed my **MCA** From Centurion University, Odisha
 - 💼 Interested in **Data Science**, **Data Analytics**, **SAP ABAP**, and **Full Stack Web Development**
 - 🌱 Currently exploring **Machine Learning**, **Power BI**, and **SAP S/4HANA**
 - ⚡ Fun fact: I love turning raw data into meaningful stories 📊
