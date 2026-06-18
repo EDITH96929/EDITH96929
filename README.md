@@ -23,14 +23,7 @@
 
 ---
 
-## 🚀 What I Do
 
-```
-📊 Data Analyst        →  Excel · Power BI · SQL · Tableau · Python (Pandas, NumPy)
-🤖 Data Scientist      →  ML · Scikit-learn · TensorFlow · Jupyter · Matplotlib · Seaborn
-🏢 SAP ABAP Dev        →  SAP ABAP · BAPI · BADI · SmartForms · OData · SAP S/4HANA
-🌐 Frontend Dev        →  React.js · HTML · CSS · Tailwind CSS · JavaScript
-```
 
 ---
 
@@ -50,13 +43,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EDITH96929&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Sunil's GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDITH96929&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
 
 <div align="center">
 
